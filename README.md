@@ -30,7 +30,7 @@ across multiple systems using a single account.
 - Role and permission management
 - Security event logging and auditing
 
-- Use Cases
+##  Use Cases
 
 - Corporate portals and internal systems  
 - Customer identity   
