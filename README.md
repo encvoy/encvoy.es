@@ -2,14 +2,13 @@
 
 # Encvoy ID
 
-**Open-source Identity and Access Management (IAM) for modern organizations.**
+**Free and open-source Identity and Access Management (IAM) for modern organizations.**
+
 
 Encvoy ID enables secure access to company applications, websites, and APIs
 through a unified identity platform supporting SSO and modern
 authentication standards.
 
-Designed for organizations that need control, flexibility, and compliance
-across digital services.
 
 <img width="1904" height="640" alt="varvar_Abstract_identity_and_access_management_concept_secure_d6f8f8d0-49bd-4c17-9369-ee87f00b802e_0" src="https://github.com/user-attachments/assets/18d0b7f5-49ce-41e7-b97b-358cacd19b89" />
 
@@ -19,6 +18,11 @@ across digital services.
 Encvoy ID provides a centralized identity layer for employees, partners,
 and customers, allowing organizations to manage authentication and access
 across multiple systems using a single account.
+
+Designed for organizations that need control, flexibility, and compliance
+across digital services.
+
+Organizations can use, modify, and deploy it freely.
 
 ## ✨ Core Features
 
