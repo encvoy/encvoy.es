@@ -6,7 +6,7 @@ encvoy ID provides secure access to applications, websites, and APIs
 through a centralized identity platform supporting SSO and modern
 authentication standards.
 
-<img width="1904" height="640" alt="varvar_Abstract_identity_and_access_management_concept_secure_d6f8f8d0-49bd-4c17-9369-ee87f00b802e_0" src="https://github.com/user-attachments/assets/18d0b7f5-49ce-41e7-b97b-358cacd19b89" />
+<img width="1904" height="640" alt="banner ENCVOYID" src="https://github.com/user-attachments/assets/13956de3-5878-43c0-b364-3b831cbe80db" />
 
 Built for organizations that need control, flexibility,
 and compliance across digital services.
@@ -90,7 +90,7 @@ encvoy ID supports:
 - On-premise environments  
 - Private or public cloud  
 - Hybrid infrastructures
-- 
+  
 ---
 
 ## 🌱 Open Source
