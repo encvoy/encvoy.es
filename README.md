@@ -104,11 +104,11 @@ Community contributions are welcome.
 
 ## 📚 Documentation
 
-[![English](https://img.shields.io/badge/Documentation-English-blue?style=for-the-badge)](./docs/en/SUMMARY-github-en.md)
-[![Español](https://img.shields.io/badge/Documentación-Español-blue?style=for-the-badge)](./docs/es/SUMMARY-github-es.md)
-[![Deutsch](https://img.shields.io/badge/Dokumentation-Deutsch-blue?style=for-the-badge)](./docs/de/SUMMARY-github-de.md)
-[![Français](https://img.shields.io/badge/Documentation-Français-blue?style=for-the-badge)](./docs/fr/SUMMARY-github-fr.md)
-[![Italiano](https://img.shields.io/badge/Documentazione-Italiano-blue?style=for-the-badge)](./docs/it/SUMMARY-github-it.md)
+- 🇬🇧 [English](./docs/en/SUMMARY-github-en.md)
+- 🇪🇸 [Español](./docs/es/SUMMARY-github-es.md)
+- 🇩🇪 [Deutsch](./docs/de/SUMMARY-github-de.md)
+- 🇫🇷 [Français](./docs/fr/SUMMARY-github-fr.md)
+- 🇮🇹 [Italiano](./docs/it/SUMMARY-github-it.md)
 
 ---
 
