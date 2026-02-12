@@ -1,8 +1,8 @@
-# encvoy ID
+# Encvoy ID
 
 **Free and open-source Identity and Access Management (IAM) for modern organizations.**
 
-encvoy ID provides secure access to applications, websites, and APIs
+Encvoy ID provides secure access to applications, websites, and APIs
 through a centralized identity platform supporting SSO and modern
 authentication standards.
 
@@ -25,7 +25,7 @@ and compliance across digital services.
 
 ## 🔑 Authentication and Login methods
 
-encvoy ID supports a wide range of authentication methods,
+Encvoy ID supports a wide range of authentication methods,
 including passwordless and phishing-resistant options.
 
 Built on widely adopted standards:
@@ -85,7 +85,7 @@ and compliance auditing.
 
 ## 🌍 Deployment
 
-encvoy ID supports:
+Encvoy ID supports:
 
 - On-premise environments  
 - Private or public cloud  
@@ -95,7 +95,7 @@ encvoy ID supports:
 
 ## 🌱 Open Source
 
-encvoy ID is free and open-source.
+Encvoy ID is free and open-source.
 
 Organizations can use, modify, and deploy it freely.
 Community contributions are welcome.
